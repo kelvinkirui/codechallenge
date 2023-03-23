@@ -1,0 +1,24 @@
+
+h2 {
+    color: rgb(255, 255, 255);
+}
+body {
+    text-align: center;
+    align-items: center;
+}
+
+#btn {
+    padding: 1px;
+    height: 30px;
+    width: 70px;
+    border: 0px;
+}
+
+h5 {
+    padding-right: 0pc;
+}
+
+
+p {
+    padding-right: 0pc;
+}
